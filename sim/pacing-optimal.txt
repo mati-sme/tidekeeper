@@ -1,0 +1,68 @@
+ch 1 A Bubble of Hope         done at   0.13h  (+8m, gate 2m) runs=11 tides=0 rips=0 moons=0
+ch 2 The Grumpy Shell         done at   0.26h  (+8m, gate 2m) runs=19 tides=0 rips=0 moons=0
+ch 3 Pebble's Workshop        done at   0.30h  (+2m, gate 2m) runs=21 tides=0 rips=0 moons=0
+ch 4 A Glow in the Dark       done at   0.36h  (+4m, gate 2m) runs=24 tides=1 rips=0 moons=0
+ch 5 Riding the Current       done at   0.84h  (+29m, gate 3m) runs=50 tides=8 rips=0 moons=0
+ch 6 The Ebb Tide             done at   0.91h  (+4m, gate 3m) runs=54 tides=9 rips=0 moons=0
+ch 7 Into the Kelp            done at   1.50h  (+35m, gate 3m) runs=89 tides=16 rips=0 moons=0
+ch 8 Cathedral Light          done at   1.58h  (+5m, gate 4m) runs=94 tides=17 rips=0 moons=0
+ch 9 Wren the Navigator       done at   1.67h  (+5m, gate 4m) runs=99 tides=18 rips=0 moons=0
+ch10 Friends Abroad           done at   1.95h  (+17m, gate 4m) runs=110 tides=21 rips=0 moons=0
+ch11 The Old Grouper          done at   2.08h  (+7m, gate 5m) runs=113 tides=21 rips=0 moons=0
+ch12 End of the Beginning     done at   2.41h  (+20m, gate 5m) runs=123 tides=24 rips=0 moons=0
+ch13 Streets Under the Sea    done at   2.57h  (+9m, gate 6m) runs=131 tides=27 rips=0 moons=0
+ch14 Tusk's Forge             done at   2.72h  (+9m, gate 6m) runs=136 tides=29 rips=0 moons=0
+ch15 The Gear Up              done at   2.96h  (+15m, gate 7m) runs=143 tides=32 rips=0 moons=0
+ch16 Clockwork Heart          done at   3.14h  (+11m, gate 8m) runs=147 tides=33 rips=0 moons=0
+ch17 The Lobster Admiral      done at   3.30h  (+10m, gate 9m) runs=151 tides=34 rips=1 moons=0
+ch18 The Riptide              done at   3.54h  (+14m, gate 9m) runs=160 tides=38 rips=2 moons=0
+ch19 King of the Ruins        done at   3.73h  (+11m, gate 10m) runs=166 tides=41 rips=2 moons=0
+ch20 Under the Ice            done at   4.00h  (+16m, gate 11m) runs=176 tides=45 rips=3 moons=0
+ch21 Snowdrop                 done at   4.25h  (+15m, gate 13m) runs=184 tides=49 rips=4 moons=0
+ch22 The Crew Grows           done at   4.52h  (+16m, gate 14m) runs=193 tides=53 rips=5 moons=0
+ch23 Singing Icebergs         done at   4.82h  (+18m, gate 15m) runs=202 tides=57 rips=6 moons=0
+ch24 The Frozen Door          done at   5.13h  (+19m, gate 17m) runs=211 tides=61 rips=7 moons=0
+ch25 Warm Waters              done at   5.54h  (+24m, gate 18m) runs=226 tides=67 rips=9 moons=0
+ch26 Cinder the Eel           done at   5.92h  (+23m, gate 20m) runs=239 tides=73 rips=11 moons=0
+ch27 Forged in Fire           done at   6.40h  (+29m, gate 22m) runs=255 tides=80 rips=13 moons=0
+ch28 The Vent Field           done at   6.82h  (+25m, gate 24m) runs=269 tides=86 rips=14 moons=0
+ch29 Rock and Roll            done at   7.30h  (+29m, gate 27m) runs=282 tides=92 rips=16 moons=0
+ch30 The Dark Below           done at   7.81h  (+31m, gate 30m) runs=298 tides=99 rips=17 moons=0
+  8.44h Moonrise +2.31M
+ch31 Lanterns in the Deep     done at   8.44h  (+38m, gate 33m) runs=313 tides=105 rips=19 moons=1
+ch32 Moonrise                 done at   9.32h  (+52m, gate 36m) runs=334 tides=114 rips=22 moons=1
+  9.35h Moonrise +238M
+ch33 Glimmer                  done at   9.99h  (+41m, gate 39m) runs=351 tides=121 rips=24 moons=2
+  10.27h Moonrise +4.57B
+ch34 Ghost Shark              done at  10.75h  (+45m, gate 43m) runs=370 tides=129 rips=26 moons=3
+  11.17h Moonrise +20.70B
+ch35 Many Friends             done at  11.59h  (+50m, gate 48m) runs=390 tides=137 rips=29 moons=4
+  12.13h Moonrise +42.58B
+ch36 Edge of the Trench       done at  12.48h  (+53m, gate 52m) runs=410 tides=145 rips=32 moons=5
+  13.05h Moonrise +56.73B
+ch37 The Moon Trench          done at  13.55h  (+64m, gate 58m) runs=437 tides=156 rips=36 moons=6
+  13.93h Moonrise +103B
+ch38 A Song in the Dark       done at  14.62h  (+64m, gate 63m) runs=463 tides=167 rips=39 moons=7
+  15.22h Moonrise +399B
+ch39 Moonsilver               done at  15.80h  (+71m, gate 70m) runs=489 tides=177 rips=43 moons=8
+  16.57h Moonrise +730B
+ch40 The Lantern Shards       done at  17.19h  (+83m, gate 77m) runs=518 tides=189 rips=47 moons=9
+  17.95h Moonrise +1.24T
+ch41 Selene                   done at  18.69h  (+90m, gate 84m) runs=550 tides=203 rips=51 moons=10
+  19.69h Moonrise +2.53T
+ch42 Crew of Legends          done at  20.26h  (+94m, gate 93m) runs=582 tides=216 rips=56 moons=11
+  21.45h Moonrise +3.32T
+ch43 Old Tide                 done at  22.02h  (+105m, gate 102m) runs=618 tides=231 rips=61 moons=12
+  23.62h Moonrise +6.40T
+ch44 Everyone Together        done at  23.91h  (+114m, gate 112m) runs=655 tides=246 rips=66 moons=13
+ch45 Deeper Still             done at  26.14h  (+133m, gate 124m) runs=695 tides=264 rips=71 moons=13
+  26.40h Moonrise +82.40T
+ch46 Second Moonrise          done at  28.44h  (+139m, gate 136m) runs=738 tides=282 rips=77 moons=14
+  30.06h Moonrise +237T
+ch47 The Gloom Heart          done at  31.00h  (+153m, gate 150m) runs=784 tides=301 rips=83 moons=15
+  33.34h Moonrise +375T
+ch48 The Moon Lantern         done at  33.77h  (+166m, gate 165m) runs=835 tides=323 rips=90 moons=16
+STORY COMPLETE at 33.77h after 835 dives (camp 2s/dive). Dives with nothing new bought afterwards: 1.7%
+run endings: {"hull":482,"oxygen":353} lengths <10s/10-30/30-90/90+: 1/15/234/585
+tides=323 rips=90 moons=16 friends=21 crew=118 achs=61/68 maxRar=5 best=2160/3200/3200/5006/6784/10342/13484
+sum of Ark gates: 29.87h

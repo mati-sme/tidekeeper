@@ -1,0 +1,10 @@
+import { build } from 'esbuild';
+import { mkdirSync, copyFileSync, existsSync, writeFileSync } from 'fs';
+mkdirSync('docs/fonts', { recursive: true });
+await build({ entryPoints: ['src/main.js'], bundle: true, minify: true, format: 'iife', target: 'es2020', outfile: 'docs/app.js', legalComments: 'none' });
+copyFileSync('index.html', 'docs/index.html'); copyFileSync('style.css', 'docs/style.css');
+for (const w of [500, 600, 700]) copyFileSync(`node_modules/@fontsource/fredoka/files/fredoka-latin-${w}-normal.woff2`, `docs/fonts/fredoka-${w}.woff2`);
+for (const w of [400, 600, 800]) copyFileSync(`node_modules/@fontsource/nunito/files/nunito-latin-${w}-normal.woff2`, `docs/fonts/nunito-${w}.woff2`);
+copyFileSync('build/icon.png', 'docs/icon.png');
+for (const f of ['marlo', 'pebble', 'luma', 'wren', 'tusk', 'nyx', 'orla', 'kai']) copyFileSync(`art/${f}.jpg`, `docs/${f}.jpg`);
+writeFileSync('docs/.nojekyll', ''); console.log('built docs/');

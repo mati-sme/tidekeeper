@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Tidekeeper</title><link rel="icon" href="icon.png"><link rel="stylesheet" href="style.css"></head>
+<body>
+<canvas id="c3d"></canvas>
+<div id="app" class="hub">
+  <header id="topbar"><div class="brand"><img src="icon.png" alt=""><span>Tidekeeper</span></div><div id="res" class="res"></div>
+    <div class="tb-right"><button id="btn-mute" class="icon-btn" data-tip="Mute sound <kbd>M</kbd>">🔊</button><button id="btn-settings" class="icon-btn" data-tip="Settings <kbd>O</kbd>">⚙️</button></div></header>
+  <nav id="rail"></nav>
+  <main id="panel"><div id="panel-head"></div><div id="panel-body"></div></main>
+  <aside id="mission"></aside>
+  <div id="cta"></div>
+  <div id="hud">
+    <div class="hud-top"><div id="h-world" class="chip"></div><div class="hud-center"><div id="h-depth">0 m</div><div id="h-next"></div>
+      <div class="bars"><div class="bar oxy"><i></i><span></span></div><div class="bar hull"><i></i><span></span></div></div></div>
+      <div class="hud-right"><div id="h-haul"></div><button id="h-pause" class="icon-btn" data-tip="Pause <kbd>P</kbd>">⏸</button></div></div>
+    <div id="h-boss" class="hide"><div class="bn"></div><div class="bar boss"><i></i></div></div>
+    <div id="h-abil"></div>
+    <div id="h-keys"><kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> steer · <kbd>W</kbd> rush · <kbd>S</kbd> brake</div>
+  </div>
+  <div id="dialog" class="hide"><img class="portrait" alt=""><div class="dlg-box"><div class="dlg-name"></div><div class="dlg-text"></div><div class="dlg-hint">Click or <kbd>Space</kbd> to continue</div></div></div>
+  <div id="modal-root"></div>
+  <div id="toasts"></div>
+  <div id="tip"></div>
+  <div id="title" class="hide"><div class="title-card"><img src="icon.png" alt=""><h1>Tidekeeper</h1><p>The Moon Lantern has fallen and the sea is full of Gloom.<br>Dive, clean up, free the Guardians, and bring the light home.</p><button class="btn btn-primary btn-xl" id="btn-start">Begin the adventure</button><div class="small muted">WASD to steer · Space to dive</div></div></div>
+</div>
+<script src="app.js"></script>
+</body></html>

@@ -1,0 +1,46 @@
+{
+  "name": "tidekeeper",
+  "productName": "Tidekeeper",
+  "version": "1.0.0",
+  "description": "A 3D run-based ocean adventure: dive, cleanse the Gloom, free Guardians, restore the Ark and relight the Moon Lantern.",
+  "type": "module",
+  "main": "desktop/main.cjs",
+  "author": "Matias",
+  "scripts": {
+    "build": "node build.mjs",
+    "start": "electron .",
+    "sim": "node sim/sim.mjs",
+    "dist:mac": "bash build/pack-mac.sh"
+  },
+  "build": {
+    "appId": "io.matisme.tidekeeper",
+    "productName": "Tidekeeper",
+    "files": [
+      "docs/**",
+      "desktop/**"
+    ],
+    "mac": {
+      "target": [
+        {
+          "target": "zip",
+          "arch": [
+            "arm64"
+          ]
+        }
+      ],
+      "category": "public.app-category.games",
+      "identity": null,
+      "icon": "build/icon.png",
+      "minimumSystemVersion": "12.0"
+    }
+  },
+  "devDependencies": {
+    "electron": "^33.4.11",
+    "electron-builder": "^25.1.8",
+    "esbuild": "^0.28.2",
+    "playwright-core": "^1.65.0",
+    "three": "^0.170.0",
+    "@fontsource/fredoka": "^5.2.0",
+    "@fontsource/nunito": "^5.2.0"
+  }
+}
